@@ -8,9 +8,8 @@ include "handler/handler.php";
  $arr=["name"=>$name,
        "email"=>$email,
        "password"=>$password];
-
-
-  
+       
+echo "yousef";
 
        
        $ob=new DB;
